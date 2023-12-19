@@ -14,4 +14,4 @@ class MyClient(discord.Client):
             await message.channel.send(f'Hi {message.author.name} 👋')
 
 client = MyClient()
-client.run('ODkxODI2NjU2NzY1OTYwMTky.YVEATA.GL3KxjNVrS5eUQtf2q3aOv2Po5w')
+client.run('The token goes here')
