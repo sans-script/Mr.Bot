@@ -25,7 +25,7 @@ class MyClient(discord.Client):
             if bot_choice == "paper":
                 await message.channel.send(random.choice(bot_wins_list))
             elif bot_choice == "scissors":
-                await message.channel.send("You won! Nooo")
+                await message.channel.send("You won! Noooo")
             else:
                 await message.channel.send("It's a tie!")
 
