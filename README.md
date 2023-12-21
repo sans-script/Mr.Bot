@@ -24,7 +24,7 @@ This is a simple Python Discord bot that plays the rock, paper, scissors game wi
 - Run the bot:
 
      ```bash
-     python bot.py
+     python Mr.bot.py
      ```
 
 3. **Usage:**
